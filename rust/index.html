@@ -11,7 +11,7 @@ class: middle, center
 
 # Reliable Unsafe Rust
 
-### Achieving Memory Safety in Rust with Symbolic Verfication
+### Achieving Memory Safety in Rust with Symbolic Verfication to Detect Leaky Abstractions
 
 ---
 class: top, left
@@ -108,6 +108,14 @@ Cases to look at in the future:
 * leaking dangling pointers
 * leaking unitialized memory
 * OOB read/write
+
+---
+class: top, left
+
+# Steps Moving Forward
+1. Establish useful subset of language
+2. Develop symbolic execution of this subset
+3. Add additional constraints to discover leaky abstractions
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
