@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Test Name
 
 # Is this the primary user of the site?
 superuser: true
