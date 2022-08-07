@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+Hi! I do research in binary analysis and deductive verification. Lately, I have been particularly interested in declarative frameworks for static analyses. 
 
-Check out my [CV](/about/) and blog posts below 🌈
+*All opinions are my own*
